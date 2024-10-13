@@ -12,13 +12,13 @@ Use fish as default shell
 
 ### [wezterm](https://wezfurlong.org/wezterm/index.html)
 
-[![Mac](https://skillicons.dev/icons?i=apple)]
+Mac
 
 ```sh
   brew install --cask wezterm
 ```
 
-[![Arch](https://skillicons.dev/icons?i=arch)]
+Arch
 
 ```sh
   sudo pacman -S wezterm
@@ -26,13 +26,13 @@ Use fish as default shell
 
 ### [fish](https://fishshell.com/)
 
-[![Mac](https://skillicons.dev/icons?i=apple)]
+Mac
 
 ```sh
   brew install fish
 ```
 
-[![Arch](https://skillicons.dev/icons?i=arch)]
+Arch
 
 ```sh
   sudo pacman -S fish
@@ -46,13 +46,13 @@ Use fish as default shell
 
 ### [fzf](https://github.com/junegunn/fzf)
 
-[![Mac](https://skillicons.dev/icons?i=apple)]
+Mac
 
 ```sh
   brew install fzf
 ```
 
-[![Arch](https://skillicons.dev/icons?i=arch)]
+Arch
 
 ```sh
   sudo pacman -S fzf
